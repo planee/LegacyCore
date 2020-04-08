@@ -1796,7 +1796,7 @@ CREATE TABLE `realmlist` (
 /*Data for the table `realmlist` */
 
 insert  into `realmlist`(`id`,`name`,`address`,`localAddress`,`localSubnetMask`,`port`,`icon`,`flag`,`timezone`,`allowedSecurityLevel`,`population`,`gamebuild`,`Region`,`Battlegroup`) values 
-(1,'Ashamane','127.0.0.1','127.0.0.1','255.255.255.0',8085,0,2,1,0,0,26972,1,1);
+(1,'LegacyCore','127.0.0.1','127.0.0.1','255.255.255.0',8085,0,2,1,0,0,26972,1,1);
 
 /*Table structure for table `updates` */
 
