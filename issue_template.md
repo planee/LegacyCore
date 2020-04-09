@@ -1,5 +1,5 @@
 <!--- (*************************************************************)
-      (** Fill in the following fields, WE DO NOT SUPPORT REPACKS***)
+      (** Fill in the following fields, WE DO NOT SUPPORT REPACKS UNLESS IT OUR OWN***)
       (**********************************)
       For SQL fixes:
       don't modify WDB fields without supply one sniff of those fields (censure guids, character names, anything blizzard can use to identify source)
@@ -30,16 +30,16 @@ CHANGEME Tell us what should happen instead.
 
 **Project(s): <-- Mandatory**
 
-- [ ] Issue found playing in Live Ashamane Private Server.
+- [ ] Issue found in latest project repack from Releases.
 - [ ] Issue found in a compiled master repo from Git.
 
-**TC rev. hash/commit:** 
+**LegacyCore rev. hash/commit:** 
 
 CHANGEME Mandatory if Project == compiled master repo from Git, found it in first line of Server.log
 
 **Database version**
 
-CHANGEME What DB do you use, TDB, ADB, other.
+CHANGEME What DB do you use, TDB, ADB, LCDB, etc.
 
 **Operating system:** CHANGEME OS
 
