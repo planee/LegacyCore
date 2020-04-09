@@ -1,4 +1,6 @@
-# AshamaneCore
+# LegacyCore Legion
+formerly AshamaneCoreLegacy.
+7.3.5 26972
 
 --------------
 
@@ -12,17 +14,18 @@
 * [Copyright](#copyright)
 * [Authors &amp; Contributors](#authors--contributors)
 * [Links](#links)
+* [Precompiled Core]
 
 
 
 ## Build Status
 
 [![master Build Status](https://travis-ci.org/TheGhostGroup/AshamaneCoreLegacy.svg?branch=legion)](https://travis-ci.org/TheGhostGroup/AshamaneCoreLegacy)
-[![Build status](https://ci.appveyor.com/api/projects/status/kb0wjxh3va9c3e0k/branch/master?svg=true)](https://ci.appveyor.com/project/Traesh/ashamanecore/branch/master)
+
 
 ## Introduction
 
-AshamaneCore is a *MMORPG* Framework based mostly in C++.
+LegacyCore is a *MMORPG* Framework based mostly in C++.
 
 It is fully based on *TrinityCore*, with upgrades like :
 
@@ -104,3 +107,7 @@ Read file [THANKS](THANKS).
 * [Wiki](https://www.trinitycore.info)
 * [Forums](http://forum.ashamane.com/)
 * [TrinityCore](https://www.trinitycore.org/)
+* [ProjectLegacy](https://discord.gg/c8nFjA)
+
+## Precompiled Core
+comming soon!
