@@ -14,7 +14,7 @@ formerly AshamaneCoreLegacy.
 * [Copyright](#copyright)
 * [Authors &amp; Contributors](#authors--contributors)
 * [Links](#links)
-* [Precompiled Core]
+* [Precompiled Core](#precompiledcore)
 
 
 
@@ -109,5 +109,5 @@ Read file [THANKS](THANKS).
 * [TrinityCore](https://www.trinitycore.org/)
 * [ProjectLegacy](https://discord.gg/c8nFjA)
 
-## Precompiled Core
+## PrecompiledCore
 comming soon!
